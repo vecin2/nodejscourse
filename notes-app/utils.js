@@ -41,7 +41,7 @@ export const removeNote = (title) => {
   } else console.log(chalk.red.inverse('Note not found'))
 }
 
-export const readNotes = (title) => {
+export const readNote = (title) => {
   const note = loadNotes().find((note) => note.title === title)
   if (note) {
     console.log(chalk.yellow(note.title))
