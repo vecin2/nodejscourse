@@ -1,0 +1,7 @@
+f11ca3ac639f52c5551f3200e81baa92
+http://api.weatherstack.com/
+http://api.weatherstack.com/current
+    ? access_key = YOUR_ACCESS_KEY
+    & query = New York
+	
+mapbox = pk.eyJ1IjoidmVjaW4yIiwiYSI6ImNsMWFrbWUwcTB4ejIzYnBzdXBpbjAzZDYifQ.0aYzveJ43ruwFzJdDwCYwg

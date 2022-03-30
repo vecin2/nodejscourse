@@ -46,6 +46,8 @@ export const readNote = (title) => {
   if (note) {
     console.log(chalk.yellow(note.title))
     console.log(note.body)
+  } else {
+    console.log(chalk.red('Note not found'))
   }
 }
 // export { addNote, loadNotes, removeNote }
