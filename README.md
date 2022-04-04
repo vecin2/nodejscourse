@@ -1,3 +1,5 @@
-# nodemon
+# Course
 
-nodemon -e js,hbs
+### Useful commands
+
+**nodemon -e js,hbs**
